@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @pokedex.name %>
+</p>
+
+<p>
+  <b>Quantity:</b>
+  <%= @pokedex.quantity %>
+</p>
+
+
+<%= link_to 'Edit', edit_pokedex_path(@pokedex) %> |
+<%= link_to 'Back', pokedexes_path %>

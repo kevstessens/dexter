@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  type: 
+  number: 1
+  version: MyString
+  pokedex: 
+  admin_user: 
+
+two:
+  name: MyString
+  type: 
+  number: 1
+  version: MyString
+  pokedex: 
+  admin_user: 
